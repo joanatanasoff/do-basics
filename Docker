@@ -1,2 +1,0 @@
-FROM nginx
-CP web/* /usr/share/nginx/html/
